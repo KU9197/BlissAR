@@ -503,7 +503,8 @@
       },
       "components": {},
       "name": "Plane",
-      "order": 0.7254656112652067
+      "order": 0.7254656112652067,
+      "hidden": true
     },
     "40fba8aa-dbb5-4b00-8a35-7285840de97f": {
       "id": "40fba8aa-dbb5-4b00-8a35-7285840de97f",
