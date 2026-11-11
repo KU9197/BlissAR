@@ -479,7 +479,7 @@
         "color": "#ffffff",
         "textureSrc": {
           "type": "asset",
-          "asset": "assets/Reminder3b.png"
+          "asset": "assets/"
         },
         "side": "double",
         "blending": "normal",
@@ -565,7 +565,7 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/sleek_sunglasses.glb"
+          "asset": "assets/original-halfrim-sunglasses.glb"
         },
         "animationClip": "",
         "loop": true
@@ -599,7 +599,7 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/rounded_rectangle_eyeglasses.glb"
+          "asset": "assets/original-halfrim-sunglasses.glb"
         },
         "animationClip": "",
         "loop": true
@@ -633,7 +633,7 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/sunglasses_model_no1_cravatta.glb"
+          "asset": "assets/original-halfrim-sunglasses.glb"
         },
         "animationClip": "",
         "loop": true
@@ -667,12 +667,12 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/agent_smith_glasses.glb"
+          "asset": "assets/original-halfrim-sunglasses.glb"
         },
         "animationClip": "",
         "loop": true
       },
-      "name": "agent_smith_glasses.glb",
+      "name": "original-halfrim-sunglasses.glb",
       "order": 3.236046413128776
     }
   },
