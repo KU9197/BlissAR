@@ -275,7 +275,7 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/ray-ban_sunglasses.glb"
+          "asset": "assets/original-halfrim-sunglasses.glb"
         },
         "animationClip": "",
         "loop": true
