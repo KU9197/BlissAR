@@ -227,12 +227,12 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/original-halfrim-sunglasses.glb"
+          "asset": "assets/BlissNEW.glb"
         },
         "animationClip": "",
         "loop": true
       },
-      "name": "original-halfrim-sunglasses.glb",
+      "name": "BlissNEW.glb",
       "order": 3.236046413128776
     }
   },
