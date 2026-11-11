@@ -207,7 +207,7 @@
       "position": [
         0,
         -0.02,
-        0.04
+        0.00
       ],
       "rotation": [
         0,
@@ -216,9 +216,9 @@
         1
       ],
       "scale": [
-        7,
-        7,
-        7
+        7.5,
+        7.5,
+        7.5
       ],
       "geometry": null,
       "material": null,
