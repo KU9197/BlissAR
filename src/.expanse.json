@@ -227,12 +227,12 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/BlissNEW.glb"
+          "asset": "assets/BlissNEW1.glb"
         },
         "animationClip": "",
         "loop": true
       },
-      "name": "BlissNEW.glb",
+      "name": "BlissNEW1.glb",
       "order": 3.236046413128776
     }
   },
